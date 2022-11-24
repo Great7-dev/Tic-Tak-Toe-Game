@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { useRecoilState } from "recoil";
 import { resetAllState, resetState } from "../../atoms/reset";
 import { showSuccessModalState } from "../../atoms/success";
 import { instructionsStyle } from "../Game/GameStyle";
-// import { buttonStyle } from "../Game/GameStyle";
 import { SuccessStyle } from "../Modal/SuccessModalStyle";
 
 

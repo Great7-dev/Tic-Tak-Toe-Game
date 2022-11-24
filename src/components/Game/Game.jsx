@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { boardStyle, buttonStyle, containerStyle, instructionsStyle, rowStyle, squareStyle } from './GameStyle';
-import background from "../../assets/GAMING PATTERNS 3D.jpg"
+import { boardStyle,containerStyle, instructionsStyle, rowStyle, squareStyle } from './GameStyle';
 import { useRecoilState } from 'recoil';
 import { showSuccessModalState } from '../../atoms/success';
 import SuccessModal from '../Modal/SuccessModal';

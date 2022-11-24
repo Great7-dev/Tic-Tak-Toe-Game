@@ -23,8 +23,8 @@ export const SuccessStyle = styled.div`
   }
   .text{
     font-style: normal;
-    font-weight: 700;
-    font-size: 50px;
+    font-weight: 600;
+    font-size: 40px;
     color: yellow;
     text-align: center;
     margin-top: 100px;
